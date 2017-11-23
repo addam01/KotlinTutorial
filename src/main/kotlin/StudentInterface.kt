@@ -1,0 +1,5 @@
+
+interface StudentInterface{
+
+    fun study()
+}
